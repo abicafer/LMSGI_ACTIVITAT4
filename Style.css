@@ -1,0 +1,79 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color:goldenrod;
+  text-align: center;
+}
+
+table, th, td {
+  width: 100%; 
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.DIAS {
+  height: 70px;
+  padding: 30px;
+  font-size: 25px;
+  background-color: chartreuse;
+  text-align: center;
+  color: black; 
+  font-weight: bold;
+}
+.HORES {
+  font-size: 20px;
+  padding: 10px;
+  width: 180px;
+  text-align: center;
+  color: black;
+}
+#Descans {
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+  color: black;
+}
+.LMSGI {
+  background-color: blueviolet;
+  text-align: center;
+  color: black;
+}
+.BD {
+  background-color: orange;
+  text-align: center;
+  color: black;
+}
+.PED {
+  background-color: chartreuse;
+  text-align: center;
+  color: black;
+}
+.SI {
+  background-color: deeppink;
+  text-align: center;
+  color: black;
+}
+.TUT {
+  background-color: green;
+  text-align: center;
+  color: black;
+}
+.AN {
+  background-color: brown;
+  text-align: center;
+  color: black;
+}
+.DIW {
+  background-color: aquamarine;
+  text-align: center;
+  color: black;
+}
+.IPOI {
+  background-color: aqua;
+  text-align: center;
+  color: black;
+}
